@@ -1,0 +1,6 @@
+{
+  "name": "Schedule Reflect",
+  "description": "Compare your planned schedule versus actual time usage data to get AI-powered insights on daily inefficiencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
